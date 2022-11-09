@@ -5,6 +5,7 @@
 Today we have a LIVE demo of what integrity means in the world of cyber security. You can expect more Powershell scripts in the Windows environment and a real-time explanation of integrity: )
 
 Don't forget to download the fim.ps1 file to try it out yourself!
+> Shoutout [Josh](https://www.youtube.com/c/JoshMadakor) for the tutorial.
 
 [CLICK HERE FOR THE LIVE DEMO](https://www.youtube.com/watch?v=VskiYuvMv5U)
 
